@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/jcastaneyra/jcastaneyra/blob/master/keyboards.jpg" alt="Photo of my current mechanical keyboards" width=350px/>
+<img align="right" src="https://github.com/jcastaneyra/jcastaneyra/blob/master/keyboards.png" alt="Photo of my current mechanical keyboards" width=350px/>
 
 ### Hi there 👋
 
